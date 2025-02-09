@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rohan Varma</h1>
 <h3 align="center">A passionate Full-Stack Developer from India</h3>
 
-- 🌱 I’m currently learning **Full-Stack Web Development**
+- 🌱 I’m currently learning **Artificial intelligence & Machine Learning**
 
 - 👯 I’m looking to collaborate on **Research Projects**
 
