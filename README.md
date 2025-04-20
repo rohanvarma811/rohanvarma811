@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rohan Varma</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohanvarma811&label=Profile%20views&color=0e75b6&style=flat" alt="rohanvarma811" /> </p>
-
 - 🔭 I’m currently working on **AWS Cloud Projects**
 
 - 🌱 I’m currently learning **AWS, Python Development and AI/ML Projects**
